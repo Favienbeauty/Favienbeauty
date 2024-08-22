@@ -600,6 +600,24 @@ iconify-icon.video-icon {
   opacity: 1;
 }
 
+.whats-app {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 25px;
+  text-align: center;
+  font-size: 30px;
+  right: 30px;
+  z-index: 100;
+} 
+
+.my-float {
+  margin-top: 10px;
+}
+.w2 {
+  width: 50px;
+  height: 50px;
+}
 
 
 /* 4.6 Footer Section
